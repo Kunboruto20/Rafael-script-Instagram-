@@ -10,6 +10,8 @@ pkg install -y nodejs git
 
 npm install inquirer
 npm install delay 
+npm install chalk@4 
+npm install inquirer
 npm install npm install nodejs-insta-private-api readline-sync
 npm install 
 npm start 
