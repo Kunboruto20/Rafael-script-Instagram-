@@ -6,6 +6,6 @@ Acest bot permite trimiterea automată de mesaje către utilizatori sau grupuri 
 
 ```bash
 git clone https://github.com/Kunboruto20/Rafael-script-Instagram-.git
-cd Instagrambot
+cd Rafael-script-Instagram
 chmod +x install.sh
 ./install.sh
